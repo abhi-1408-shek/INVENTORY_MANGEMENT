@@ -1,0 +1,16 @@
+view/DashboardView.class
+dao/ProductDAO.class
+model/Product.class
+model/Supplier.class
+model/Transaction.class
+view/TransactionView.class
+db/DBUtil.class
+view/ProductView.class
+dao/SupplierDAO.class
+view/SupplierView.class
+Main.class
+view/CategoryView.class
+model/Category.class
+dao/TransactionDAO.class
+dao/CategoryDAO.class
+db/DBConfig.class
