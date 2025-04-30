@@ -7,10 +7,9 @@
   <img src="https://img.shields.io/github/stars/abhi-1408-shek/INVENTORY_MANGEMENT?style=social" alt="GitHub Stars"/>
 </p>
 
-<!-- Animated SVG Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animations/main/animations/wave.svg" alt="divider" width="80%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="80%"/>
+</p>
 
 <h1 align="center">Inventory Management System</h1>
 
