@@ -4,11 +4,7 @@
   <img src="https://img.shields.io/badge/MySQL-9%2B-005C84?logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/Maven-Build-blueviolet?logo=apachemaven" alt="Maven Badge"/>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"/>
-  <img src="https://img.shields.io/github/stars/abhi-1408-shek/inventory_management?style=social" alt="GitHub Stars"/>
-</p>
-
-<p align="center">
-  <img src="assets/banner.png" alt="Inventory Management Banner" width="70%">
+  <img src="https://img.shields.io/github/stars/abhi-1408-shek/INVENTORY_MANGEMENT?style=social" alt="GitHub Stars"/>
 </p>
 
 <!-- Animated SVG Divider -->
