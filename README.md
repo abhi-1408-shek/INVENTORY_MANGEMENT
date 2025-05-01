@@ -51,7 +51,7 @@ brew services start mysql
 ```sh
 mysql_secure_installation
 ```
-- Set a strong password for the root user (e.g., `Elan@1408`).
+- Set a strong password for the root user.
 - Remember this password; you will need it for configuration.
 
 ### 4. Configure Database Connection
@@ -105,7 +105,7 @@ mvn clean javafx:run
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-- Developed by [Your Name/Team]
+- Developed by Team GCET
 - JavaFX, MySQL, Maven
 
 ---
