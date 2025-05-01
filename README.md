@@ -154,13 +154,13 @@ A modern Inventory Management System for retail/warehouse settings, built with *
 ---
 
 ## 👥 Team & Contributions
-| Name           | Role                | GitHub         |
-|----------------|---------------------|----------------|
-| Abhishek       | Backend             | @abhi-1408-shek|
-| Khushmeet Singh| Frontend, Charts    | @member2       |
-| Vardaan Sharma | DB & Integration    | @member3       |
-| Anubhav Dubey  | Reports, Testing    | @member4       |
-| Pranshu Sharma | UI/UX, Docs         | @member5       |
+| Name           | Role                | GitHub          |
+|----------------|---------------------|-----------------|
+| Abhishek       | Backend             | @abhi-1408-shek |
+| Khushmeet Singh| Frontend, Charts    | @Khushmeet-Singh|
+| Vardaan Sharma | DB & Integration    | @member3        |
+| Anubhav Dubey  | Reports, Testing    | @member4        |
+| Pranshu Sharma | UI/UX, Docs         | @member5        |
 
 ---
 
