@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-007396?logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/JavaFX-21%2B-1C1C1C?logo=java" alt="JavaFX Badge"/>
   <img src="https://img.shields.io/badge/MySQL-9%2B-005C84?logo=mysql&logoColor=white" alt="MySQL Badge"/>
