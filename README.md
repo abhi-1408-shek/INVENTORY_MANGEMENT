@@ -88,7 +88,7 @@ mvn clean javafx:run
   - Kill stray MySQL processes: `sudo pkill -f mysqld`
   - Reinstall MySQL if needed.
 
-## 📸 Application Screenshots
+## 📸 Application screenshots
 
 <p align="center">
   <b>App Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Product Form</b><br>
