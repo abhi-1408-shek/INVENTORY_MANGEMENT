@@ -48,7 +48,7 @@ The Inventory Management System is a robust desktop solution designed to streaml
 
 ## Team Contributions & Project Division
 
-### Part 1: Project Architecture & Backend (Member 1)
+### Part 1: Project Architecture & Backend (Abhishek)
 - Designed the overall architecture (MVC, DAO, modular structure)
 - Integrated JavaFX with MySQL using JDBC
 - Implemented core business logic, stock updates, and transaction management
@@ -58,7 +58,7 @@ The Inventory Management System is a robust desktop solution designed to streaml
   - How the backend logic ensures data integrity and performance
   - Challenges with concurrency and multi-user consistency
 
-### Part 2: UI/UX & Dashboards (Member 2)
+### Part 2: UI/UX & Dashboards (Khushmeet Singh)
 - Led JavaFX UI design (forms, tables, navigation, dashboards)
 - Developed dashboard with live charts for stock/sales analytics
 - Enhanced look and feel (color schemes, layouts, icons)
@@ -68,7 +68,7 @@ The Inventory Management System is a robust desktop solution designed to streaml
   - How charts and dashboards provide business insight
   - Addressing UI responsiveness and feedback
 
-### Part 3: Database & Integration (Member 3)
+### Part 3: Database & Integration (Vardaan Sharma)
 - Designed MySQL schema (tables, FKs, constraints)
 - Wrote SQL scripts for schema and sample data
 - Implemented DAOs for all entities (CRUD, analytics)
@@ -78,7 +78,7 @@ The Inventory Management System is a robust desktop solution designed to streaml
   - Preventing SQL injection and ensuring efficient queries
   - Troubleshooting integration issues
 
-### Part 4: Reporting & Testing (Member 4)
+### Part 4: Reporting & Testing (Anubhav Dubey)
 - Developed reporting modules (inventory, sales, export to CSV/PDF)
 - Wrote and executed test cases (manual/automated)
 - Ensured data integrity in reports via SQL cross-checks
@@ -88,7 +88,7 @@ The Inventory Management System is a robust desktop solution designed to streaml
   - Testing strategy and sample bugs found/fixed
   - Ensuring report accuracy and usability
 
-### Part 5: Documentation & Presentation (Member 5)
+### Part 5: Documentation & Presentation (Pranshu Sharma)
 - Authored README, REPORT, and user manuals
 - Designed presentation assets (icons, banners, screenshots)
 - Coordinated documentation updates with feature changes
